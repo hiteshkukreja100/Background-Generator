@@ -21,3 +21,10 @@ Seamless Integration: Ensures high-quality output with smooth blending between t
 ## New Background
 ![image](https://github.com/hiteshkukreja100/Background-Generator/assets/117500378/8fe4f300-b44e-4500-bdad-f7ccfd714c7d)
 
+# Usage
+## clone the repo
+
+## Run the Streamlit App:
+Navigate to the directory containing background_changer_app.py and run:
+bash
+streamlit run background_changer_app.py
